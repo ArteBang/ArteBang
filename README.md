@@ -11,7 +11,6 @@
 ### 🏆 Problem Solving Stats
 ![Programmers](https://img.shields.io/badge/Programmers-130%2B_Solved-blue?style=for-the-badge&logo=visualstudiocode)
 ![Project Euler](https://img.shields.io/badge/Project_Euler-50+_Solved-orange?style=for-the-badge&logo=projecteuler&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
